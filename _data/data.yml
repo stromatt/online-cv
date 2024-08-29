@@ -9,13 +9,13 @@ sidebar:
 
     # Profile information
     name: Mattias Ström
-    tagline: Data Analyst
-    avatar: Profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Data Analyst - Rollout Manager
+    #avatar: Profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: m.strom93@hotmail.com
-    phone: +46 70-931 44 57
-    timezone: GMT+1
+    #phone: +46 70-931 44 57
+    timezone: CET
     # citizenship:
     #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
@@ -58,12 +58,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Having worked at industrial sites most of my life, I recieved a good insight of how they function on the physical sites,
+      as well as the administrative work when working as a manager.
+      Being most experienced with scaffolding, I understand the factors needed to make a project succeed.
+
+      When becoming responsible for different sites, I started to incorporate different ways to automize certain tasks.
+      After realising the potential of software and code, I started to study it on my spare time, as well as further develop programs to aid in my work.
+      Later, I recieved an offer to work with IT fulltime.
 education:
     title: Education
     info:
@@ -71,7 +72,7 @@ education:
         university: STIB
         time: 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -82,7 +83,7 @@ education:
         university: STIB
         time: 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -93,7 +94,7 @@ education:
         university: Internal company courses
         time: 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -104,7 +105,7 @@ education:
         university: Hermods (Remote)
         time: 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -115,7 +116,7 @@ education:
         university: Udemy (Remote)
         time: 2020 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -127,7 +128,7 @@ education:
         university: 
         time: 2021 - present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -139,167 +140,155 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Rollout manager
+      - role: Rollout manager / IT
         time: 2020 - Present
         company: KAEFER AB, Stenungsund (Local & International)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Main responsible to implement our internal system (DPMS) on different sites and ensure it works without issues.
+          Other work tasks include developing automated workflows in the company using different software.
+            - Create templates inside the system
+            - Train the team & client
+            - Develop Power BI reports
+            - Maintain and upgrade the functionality and reports
       - role: Site Manager Scaffolding (Industrial)
         time: 2018 - 2020
         company: KAEFER AB, Stenungsund
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Manager for scaffolding team at Borealis site.
+            - Scaffolding Maintenance contract
       - role: Lead Supervisor Scaffolding (Industrial)
         time: 2017 - 2018
         company: KAEFER AB, Stenungsund
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Lead Supervisor for a large project at Borealis, peaking at over 100 scaffolders
+          - Scaffolding project
       - role: Scaffolder (Industrial)
         time: 2012 - 2017
         company: KAEFER AB, Göteborg & Stenungsund
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Industrial scaffolder.
+            - Preem
+            - Borealis
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#certifications:
+ #     title: Certifications
+ #     list:
+ #       - name: CV Builder
+ #         start: 2020
+ #         end: 2021
+ #         organization: Microsoft
+  #        credentialid: 111-222
+  #        credentialurl: www.google.com
+ #         credentialname: Google
+ #         details: |
+ #           Details about cert. Lorem ipsum dolor sit amet, consectetur
+ #           adipiscing elit.
+ #          Nullam eget orci purus. Nullam ultrices neque nibh.
+  #          Aenean fermentum, felis vulputate suscipit accumsan,
+  #          sem enim bibendum augue, sed convallis arcu lacus at dui.
+   #         Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+    #        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+     #       Praesent venenatis erat non augue suscipit consectetur.
+#
+ #           Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+  #          fringilla vel. Ut euismod, sem sed vulputate venenatis,
+   #         justo diam viverra velit, sed rhoncus leo leo eu justo.
+    #        Suspendisse placerat risus ante, sed porta nisi blandit at.
+     #   - name: Git learning
+      #    start: 2019
+       #   end:
+        #  organization: Microsoft
+         # credentialid: 111-222
+#          credentialurl: www.github.com
+ #         credentialname: Github
+  #        details: |
+   #         Older certification. Lorem ipsum dolor sit amet, consectetur
+    #        adipiscing elit.
+     #       Nullam eget orci purus. Nullam ultrices neque nibh.
+      #      Aenean fermentum, felis vulputate suscipit accumsan,
+       #     sem enim bibendum augue, sed convallis arcu lacus at dui.
+        #    Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+         #   Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+          #  Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      IT projects and system templates from internal system (DPMS).
+      All projects include Power BI reports and analysing the data pulled from the system.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Borealis Scaffolding
+      #  link: "#hook"
+        tagline: "Maintenance contract."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Borealis Insulation
+     #   link: "#"
+        tagline: "Maintenance contract."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Ringhals Scaffolding
+     #   link: "#"
+        tagline: "Maintenance contract."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Preem Scaffolding
+      #  link: "#"
+        tagline: "Maintenance contract."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Synsat Scaffolding
+      #  link: "#"
+        tagline: "Large project."
+
+      - title: Project Registration application (Power Apps)
+     #   link: "#"
+        tagline: "Application to automate registration of projects into SAP with attached ID"
+
+      - title: Large amount of excel templates with calculations and/or macros
+     #   link: "#"
+      #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Company Dashboard
+     #   link: "#"
+        tagline: "Dashboard to keep track of finances and KPIs inside the company for the country"
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+ #   title: OSS Contributions
+ #   intro: >
+ #     You can list your open source software contributions in this
+ #     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ #     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+ #   contributions:
+  #    - title: Tempo
+ #       link: "#"
+  #      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+  #    - title: Atom
+  #      link: "#"
+   #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+    #  - title: Delta
+    #    link: "#"
+    #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+ #     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+ #       link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+ #       link: "#"
+ #       authors: Edgar T. Irons
+ #       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -313,10 +302,10 @@ skills:
         level: 90%
 
       - name: SQL
-        level: 90%
+        level: 80%
 
       - name: Python
-        level: 80%
+        level: 75%
 
       - name: Javascript
         level: 75%
@@ -337,5 +326,5 @@ skills:
 
 
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+ #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
